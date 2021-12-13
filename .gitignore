@@ -1,0 +1,34 @@
+# .gitignore file
+#
+# Set up for Microchip/MPLAB X development
+#
+# John Haroian
+# Updated May 7, 2015
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+
+# Netbeans specific
+~*.*
+build/
+dist/
+private/
+disassembly/
+html/
+*.zip
+*.mk
+*.bash
+Makefile-genesis.properties
+
+# KDE specific
+.directory
+
+# Misc
+.svn
+*.bak
