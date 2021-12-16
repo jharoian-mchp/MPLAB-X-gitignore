@@ -4,7 +4,18 @@
 #
 # John Haroian
 # Greg Mzorek
-# Updated Oct 6, 2020
+#
+# Updated Dec 13, 2021
+
+# MPLAB X IDE (Netbeans) specific
+**/*.X/build/
+**/*.X/debug/
+**/*.X/dist/
+**/*.X/disassembly/
+**/*.X/nbproject/private/
+**/*.X/nbproject/*.mk
+**/*.X/nbproject/*.bash
+**/*.X/nbproject/Makefile-genesis.properties
 
 # Object files
 *.o
@@ -15,16 +26,6 @@
 # Executables
 *.exe
 
-# MPLAB X IDE (Netbeans) specific
-**/*.X/~*.*
-**/*.X/build/
-**/*.X/debug/
-**/*.X/dist/
-**/*.X/disassembly/
-**/*.X/nbproject/private/
-**/*.X/nbproject/*.mk
-**/*.X/nbproject/*.bash
-**/*.X/nbproject/Makefile-genesis.properties
 
 # KDE specific
 .directory
