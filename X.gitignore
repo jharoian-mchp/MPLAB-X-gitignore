@@ -1,0 +1,30 @@
+# .gitignore file
+#
+# Set up for Microchip/MPLAB X development
+# MPLAB X .gitignore New File generation
+# 
+# Needs to be located in the project folder
+# project.X/.gitignore
+#
+# John Haroian
+# Greg Mrozek
+#
+# Updated September 26, 2022
+
+# MPLAB X IDE specific
+~*.*
+/build/
+/debug/
+/dist/
+/disassembly/
+/.generated_files/
+/nbproject/private/
+/nbproject/*.mk
+/nbproject/*.bash
+/nbproject/Makefile-genesis.properties
+
+# Large Files
+*.exe
+*.zip
+*.pdf
+
