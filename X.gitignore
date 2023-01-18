@@ -9,7 +9,7 @@
 # John Haroian
 # Greg Mrozek
 #
-# Updated September 26, 2022
+# Updated January 18, 2023
 
 # MPLAB X IDE specific
 ~*.*
@@ -22,6 +22,9 @@
 /nbproject/*.mk
 /nbproject/*.bash
 /nbproject/Makefile-genesis.properties
+
+# MCC specific
+*.bak*
 
 # Large Files
 *.exe

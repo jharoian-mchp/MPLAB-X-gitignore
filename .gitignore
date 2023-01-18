@@ -5,7 +5,7 @@
 # John Haroian
 # Greg Mrozek
 #
-# Updated Dec 16, 2021
+# Updated January 18, 2023
 
 # MPLAB X IDE (Netbeans) specific
 **/*.X/~*.*
@@ -19,19 +19,10 @@
 **/*.X/nbproject/*.bash
 **/*.X/nbproject/Makefile-genesis.properties
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# MCC specific
+*.bak*
 
-# Executables
+# Large Files
 *.exe
-
-
-# KDE specific
-.directory
-
-# Misc
-.svn
-*.bak
+*.zip
+*.pdf
