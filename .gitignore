@@ -20,7 +20,7 @@
 **/*.X/nbproject/Makefile-genesis.properties
 
 # MCC specific
-*.bak*
+**/*.X/*mc3.bak*
 
 # Large Files
 *.exe

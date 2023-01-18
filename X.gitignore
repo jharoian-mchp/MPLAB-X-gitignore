@@ -24,7 +24,7 @@
 /nbproject/Makefile-genesis.properties
 
 # MCC specific
-*.bak*
+*mc3.bak*
 
 # Large Files
 *.exe
