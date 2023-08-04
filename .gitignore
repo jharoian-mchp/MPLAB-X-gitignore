@@ -18,6 +18,7 @@
 **/*.X/nbproject/*.mk
 **/*.X/nbproject/*.bash
 **/*.X/nbproject/Makefile-genesis.properties
+**/*.X/queuelogs/
 
 # MCC specific
 **/*.X/*mc3.bak*
