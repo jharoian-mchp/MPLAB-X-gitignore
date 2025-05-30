@@ -9,7 +9,7 @@
 # John Haroian
 # Greg Mrozek
 #
-# Updated January 18, 2023
+# Updated May 30, 2025
 
 # MPLAB X IDE specific
 ~*.*
@@ -26,9 +26,8 @@
 
 # MCC specific
 *mc3.bak*
+*.bak*/
 
 # Large Files
-*.exe
 *.zip
-*.pdf
 
